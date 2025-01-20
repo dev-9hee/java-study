@@ -1,6 +1,5 @@
 package array.ex;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 // 문제 - 배열과 역순 출력
