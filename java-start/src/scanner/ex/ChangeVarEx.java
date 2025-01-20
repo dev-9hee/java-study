@@ -1,4 +1,4 @@
-package sc.ex;
+package scanner.ex;
 
 // 문제 - 변수 값 교환
 public class ChangeVarEx {
