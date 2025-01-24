@@ -10,6 +10,8 @@ public class MethodEx3 {
 
         // 출금 2000
         withdraw( 2000);
+
+        System.out.println("최종 잔액: " + balance + "원");
     }
 
     public static void deposit(int amount) {
@@ -24,6 +26,5 @@ public class MethodEx3 {
         } else {
             System.out.println(amount + "원을 출금하려 했으나 잔액이 부족합니다.");
         }
-        System.out.println("최종 잔액: " + balance + "원");
     }
 }
